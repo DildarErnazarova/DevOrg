@@ -1,0 +1,1 @@
+MapOrnekler.sehirSicakliklari();

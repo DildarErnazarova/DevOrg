@@ -1,0 +1,11 @@
+NewCar nw=new NewCar();
+nw.startCar('S-Class', 'MERCEDES');
+nw.Accelerate(80);
+nw.checkSpeed();
+nw.Brake(55);
+nw.checkSpeed();
+nw.Accelerate(10);
+nw.checkSpeed();
+nw.Brake(40);
+nw.checkSpeed();
+nw.stopCar();
